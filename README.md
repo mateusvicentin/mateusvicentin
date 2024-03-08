@@ -13,8 +13,8 @@ Some of the main tasks I have performed over the years include:
 ▶︎Configuring routing, firewall settings, directions, TCP/IP, and/or other protocols;        
 ▶︎Complete training of new technical support members and external technicians;
 ▶︎Monitoring incidents via Grafana and Zabbix and resolving the problem that occurred;
-▶︎Creation of users, groups and GPOs and/or other procedures in the Windows Server Active Directory.
-▶︎Activation of customer connections internally in the system used by the provider, following the Quality standards established by the company and assisting external technicians to follow these standards during installations and assistance;              
-▶︎Recording videos containing a specific configuration tutorial or some usability of the systems used by support members; 
+▶︎Creation of users, groups and GPOs and/or other procedures in the Windows Server Active Directory;
+▶︎Activation of customer connections internally in the system used by the provider, following the Quality standards established by the company and assisting external technicians to follow these standards during installations and assistance;
+▶︎Recording videos containing a specific configuration tutorial or some usability of the systems used by support members;
 ▶︎Updating and testing equipment, in order to ensure that it is ready to be installed in the customer's home;
 ▶︎Performing actions in the Data Center;
