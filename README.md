@@ -18,3 +18,6 @@ Activation of customer connections internally in the system used by the provider
 Recording videos containing a specific configuration tutorial or some usability of the systems used by support members;
 Updating and testing equipment, in order to ensure that it is ready to be installed in the customer's home;
 Performing actions in the Data Center;
+
+ # 🗣️ Socials:
+ <img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
